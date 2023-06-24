@@ -1,0 +1,31 @@
+{
+  "name": "Savor-icon",
+  "author": "Roy",
+  "url": "https://github.com/royc01/Savor-icon",
+  "version": "1.0.0",
+  "displayName": {
+    "default": "Savor icon",
+    "zh_CN": "写未"
+  },
+  "description": {
+    "default": "An icon pack for the Savor theme.",
+    "zh_CN": "为写未主题匹配制作的图标包。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "i18n": [
+    "en_US",
+    "zh_CN"
+  ],
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://afdian.net/a/Savor"
+    ]
+  }
+}
+

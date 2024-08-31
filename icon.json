@@ -5,11 +5,11 @@
   "version": "1.0.1",
   "displayName": {
     "default": "Savor icon",
-    "zh_CN": "写未"
+    "zh_CN": "写味"
   },
   "description": {
     "default": "An icon pack for the Savor theme.",
-    "zh_CN": "为写未主题匹配制作的图标包。"
+    "zh_CN": "为写味主题匹配制作的图标包。"
   },
   "readme": {
     "default": "README.md",
@@ -24,7 +24,7 @@
     "patreon": "",
     "github": "",
     "custom": [
-      "https://afdian.net/a/Savor"
+      "https://afdian.com/a/Savor"
     ]
   }
 }
